@@ -1,0 +1,4 @@
+name: AuraSkillsItemLimiter
+version: '${version}'
+main: com.katok.auraskillsitemlimiter.AuraSkillsItemLimiter
+api-version: '1.16'
